@@ -93,5 +93,6 @@ switch (operator) {
 default:
     document.getElementById('output').innerHTML = 'Invalid operator';
       break
+      
     }
   })
